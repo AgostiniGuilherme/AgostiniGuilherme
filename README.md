@@ -33,11 +33,12 @@ Atualmente, estou cursando **Sistemas de Informação** na UFLA e buscando oport
 
 
 ## 📫 Vamos conversar?
+Se você está interessado em discutir projetos, oportunidades ou trocar ideias sobre tecnologia, sinta-se à vontade para entrar em contato pelo LinkedIn. Adoraria conectar e contribuir para soluções inovadoras!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermeagostini)  
-[**Guilherme Agostini**](https://linkedin.com/in/guilhermeagostini) 
 
 
-Se você está interessado em discutir projetos, oportunidades ou trocar ideias sobre tecnologia, sinta-se à vontade para entrar em contato pelo LinkedIn. Adoraria conectar e contribuir para soluções inovadoras!  
+  
 
 ⭐️ Sinta-se à vontade para explorar meus repositórios e entrar em contato!  
             
