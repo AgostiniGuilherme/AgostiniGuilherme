@@ -4,7 +4,9 @@
 
 Bem-vindo ao meu GitHub! Aqui você encontrará um pouco do meu trabalho e das tecnologias que domino. 
 
-Sou um apaixonado por tecnologia e desenvolvimento de software, com foco em criar soluções eficientes e escaláveis. Atualmente, estou cursando **Sistemas de Informação** na UFLA e buscando oportunidades profissionais para aplicar e expandir meus conhecimentos.
+Sou um apaixonado por tecnologia, música e desenvolvimento de software, com foco em criar soluções de alta qualidade que resolvem problemas reais, combinando eficiência, escalabilidade, inovação e boas práticas de desenvolvimento. 
+
+Atualmente, estou cursando **Sistemas de Informação** na UFLA e buscando oportunidades profissionais para aplicar e expandir meus conhecimentos Fullstack e de Engenharia de Software.
 
 ---
 
