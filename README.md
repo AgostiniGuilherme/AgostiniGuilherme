@@ -1,4 +1,4 @@
-## Olá, sou o Guilherme Agostini! 👋🎸
+## Olá, sou Guilherme Agostini! 👋🎸
 
 ### Desenvolvedor de Software  🚀
 
@@ -32,7 +32,7 @@ Atualmente, estou cursando **Sistemas de Informação** na UFLA e buscando oport
 ## 📫 Vamos conversar?
 Se você está interessado em discutir projetos, oportunidades ou trocar ideias sobre tecnologia, sinta-se à vontade para entrar em contato pelo LinkedIn. Adoraria conectar e contribuir para soluções inovadoras!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermeagostini)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-agostini)  
 
 
   
