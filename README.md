@@ -1,6 +1,7 @@
 ## Olá, sou Guilherme Agostini! 💻🎸
 
 ### Desenvolvedor de Software  🚀
+---
 
 ### 👋 Bem-vindo ao meu GitHub! 
 
@@ -43,8 +44,7 @@ Atualmente, curso **Sistemas de Informação na UFLA** e sigo aprendendo, aplica
 ## 📫 Vamos conversar?
 Se você está interessado em discutir projetos, oportunidades ou trocar ideias sobre tecnologia, sinta-se à vontade para entrar em contato pelo LinkedIn. Adoraria conectar e contribuir para soluções inovadoras!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-agostini)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agostini.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-agostini)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agostini.dev@gmail.com)
 
 
   
